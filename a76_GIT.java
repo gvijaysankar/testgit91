@@ -164,6 +164,7 @@ git push origin vijay1
 then approver can Merge Pull Request after that confirm merge then can delete brancg (Delete Branch)
 
 git fetch --all
-git reset --hard origin/master  
+git reset --hard origin/master 
+vijaylastline
                                                                           
 */
