@@ -150,11 +150,7 @@ git push -u origin vijay1
 
 open the file in notepad, you can see as -
 VijaySankartest4444
-<<<<<<< HEAD
-treshssvijay
-=======
-treshssvijay1
->>>>>>> ca4082f83a3742ec14fadee47131e67b74a70289
+
 
 keep the text which you want 
 the do following 
@@ -164,7 +160,7 @@ git push origin vijay1
 then approver can Merge Pull Request after that confirm merge then can delete brancg (Delete Branch)
 
 git fetch --all
-git reset --hard origin/master 
-vijaylastline
-                                                                          
+git reset --hard origin/master  
+git test vijay1
+git test vijay2                                                                          
 */
